@@ -1,0 +1,4598 @@
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:63217dfdc7547fd84fc99e78beddb374ce4643386f36d5bda3ac967a16361d58 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e024c5b55592062202dc0165529ed7696f3405fc089759a6cd6c52f67fe62fd5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:7c09d47ef9dbda6fcd767931f63adc38bafcbb6433480d75f9d90aa1bb95ac5a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:63217dfdc7547fd84fc99e78beddb374ce4643386f36d5bda3ac967a16361d58 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e024c5b55592062202dc0165529ed7696f3405fc089759a6cd6c52f67fe62fd5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:7c09d47ef9dbda6fcd767931f63adc38bafcbb6433480d75f9d90aa1bb95ac5a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:63217dfdc7547fd84fc99e78beddb374ce4643386f36d5bda3ac967a16361d58 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e024c5b55592062202dc0165529ed7696f3405fc089759a6cd6c52f67fe62fd5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:7c09d47ef9dbda6fcd767931f63adc38bafcbb6433480d75f9d90aa1bb95ac5a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:63217dfdc7547fd84fc99e78beddb374ce4643386f36d5bda3ac967a16361d58 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e024c5b55592062202dc0165529ed7696f3405fc089759a6cd6c52f67fe62fd5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:7c09d47ef9dbda6fcd767931f63adc38bafcbb6433480d75f9d90aa1bb95ac5a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:63217dfdc7547fd84fc99e78beddb374ce4643386f36d5bda3ac967a16361d58 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e024c5b55592062202dc0165529ed7696f3405fc089759a6cd6c52f67fe62fd5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 238B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:7c09d47ef9dbda6fcd767931f63adc38bafcbb6433480d75f9d90aa1bb95ac5a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:fd50d9c7b80d46fc48949e9135bb1be4499cdc0d4f92439f11ea122a735111b3 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:dd58dc09f4ee76ee0ace81875c7e7ace7a59efb534bbe6d6cebc7ebcbe59b6dc done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:fc78b02c6a2a7c7f90ebf10b33bc7ff5ad578c72dc14d71aafcd6158a4fdd1e3 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.322 fetch https://dl-cdn.alpinelinux.org/alpine/v3.20/main/x86_64/APKINDEX.tar.gz
+#5 1.517 fetch https://dl-cdn.alpinelinux.org/alpine/v3.20/community/x86_64/APKINDEX.tar.gz
+#5 3.246 Upgrading critical system libraries and apk-tools:
+#5 3.246 (1/1) Upgrading apk-tools (2.14.4-r0 -> 2.14.4-r1)
+#5 3.381 Executing busybox-1.36.1-r29.trigger
+#5 3.553 Continuing the upgrade transaction with new apk-tools:
+#5 4.101 (1/2) Upgrading libcrypto3 (3.3.2-r0 -> 3.3.2-r1)
+#5 5.075 (2/2) Upgrading libssl3 (3.3.2-r0 -> 3.3.2-r1)
+#5 5.256 OK: 10 MiB in 16 packages
+#5 18.54 
+#5 18.54 added 1 package, and changed 78 packages in 13s
+#5 18.54 
+#5 18.54 26 packages are looking for funding
+#5 18.54   run `npm fund` for details
+#5 25.68 
+#5 25.68 changed 18 packages in 7s
+#5 25.68 
+#5 25.68 26 packages are looking for funding
+#5 25.68   run `npm fund` for details
+#5 DONE 26.0s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 1.0s done
+#6 writing image sha256:538a9d6a661f1f504e7ef3508c054bba5dfff9c915ec8a0c5eb48f631e2624c2 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 1.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:dd58dc09f4ee76ee0ace81875c7e7ace7a59efb534bbe6d6cebc7ebcbe59b6dc done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:fc78b02c6a2a7c7f90ebf10b33bc7ff5ad578c72dc14d71aafcd6158a4fdd1e3 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:0842f2a3ad19da07447b9b30d7a9d21783efbf2891b0808581ae9cb46c0db37d done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.317 fetch https://dl-cdn.alpinelinux.org/alpine/v3.20/main/x86_64/APKINDEX.tar.gz
+#5 1.070 fetch https://dl-cdn.alpinelinux.org/alpine/v3.20/community/x86_64/APKINDEX.tar.gz
+#5 2.213 Upgrading critical system libraries and apk-tools:
+#5 2.213 (1/1) Upgrading apk-tools (2.14.4-r0 -> 2.14.4-r1)
+#5 2.312 Executing busybox-1.36.1-r29.trigger
+#5 2.454 Continuing the upgrade transaction with new apk-tools:
+#5 2.924 (1/2) Upgrading libcrypto3 (3.3.2-r0 -> 3.3.2-r1)
+#5 3.746 (2/2) Upgrading libssl3 (3.3.2-r0 -> 3.3.2-r1)
+#5 3.904 OK: 10 MiB in 16 packages
+#5 13.58 
+#5 13.58 added 1 package, and changed 78 packages in 9s
+#5 13.58 
+#5 13.58 26 packages are looking for funding
+#5 13.58   run `npm fund` for details
+#5 19.52 
+#5 19.52 changed 18 packages in 6s
+#5 19.52 
+#5 19.52 26 packages are looking for funding
+#5 19.52   run `npm fund` for details
+#5 DONE 19.8s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.9s done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.9s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.1s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 0.0s done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:83b8b229f45906e64817a8f115fc0bfd1b89478d0b91e84cf3bfc4322e1a263b done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.217 fetch https://dl-cdn.alpinelinux.org/alpine/v3.20/main/x86_64/APKINDEX.tar.gz
+#5 1.000 fetch https://dl-cdn.alpinelinux.org/alpine/v3.20/community/x86_64/APKINDEX.tar.gz
+#5 3.353 Upgrading critical system libraries and apk-tools:
+#5 3.353 (1/1) Upgrading apk-tools (2.14.4-r0 -> 2.14.4-r1)
+#5 3.502 Executing busybox-1.36.1-r29.trigger
+#5 3.600 Continuing the upgrade transaction with new apk-tools:
+#5 4.016 (1/2) Upgrading libcrypto3 (3.3.2-r0 -> 3.3.2-r1)
+#5 5.186 (2/2) Upgrading libssl3 (3.3.2-r0 -> 3.3.2-r1)
+#5 5.393 OK: 10 MiB in 16 packages
+#5 14.85 
+#5 14.85 added 1 package, removed 24 packages, and changed 36 packages in 9s
+#5 14.85 
+#5 14.85 26 packages are looking for funding
+#5 14.85   run `npm fund` for details
+#5 18.56 
+#5 18.56 changed 19 packages in 4s
+#5 18.56 
+#5 18.56 26 packages are looking for funding
+#5 18.56   run `npm fund` for details
+#5 DONE 18.8s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.7s done
+#6 writing image sha256:e00674b4b30cb8e2d0059bde00e1773fc8817bcb2e5c4d4da318b44d589fb794 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.7s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e00674b4b30cb8e2d0059bde00e1773fc8817bcb2e5c4d4da318b44d589fb794 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e00674b4b30cb8e2d0059bde00e1773fc8817bcb2e5c4d4da318b44d589fb794 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e00674b4b30cb8e2d0059bde00e1773fc8817bcb2e5c4d4da318b44d589fb794 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e00674b4b30cb8e2d0059bde00e1773fc8817bcb2e5c4d4da318b44d589fb794 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4dc74ca29faba3fa5c6454711426ae965e649063a9715e412c86103a05859b28 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:1275a2edabdf6ad62b3afedbb0bae0a68801f3b47e3bad61be45406e7c4abab3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e00674b4b30cb8e2d0059bde00e1773fc8817bcb2e5c4d4da318b44d589fb794 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.287 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 0.989 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 2.111 OK: 10 MiB in 17 packages
+#5 11.03 
+#5 11.03 added 1 package, removed 9 packages, and changed 87 packages in 9s
+#5 11.03 
+#5 11.03 26 packages are looking for funding
+#5 11.03   run `npm fund` for details
+#5 15.70 
+#5 15.70 changed 18 packages in 4s
+#5 15.70 
+#5 15.70 26 packages are looking for funding
+#5 15.70   run `npm fund` for details
+#5 DONE 16.0s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.7s done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.7s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.210 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 0.747 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 1.938 OK: 10 MiB in 17 packages
+#5 11.44 
+#5 11.44 added 1 package, removed 9 packages, and changed 87 packages in 9s
+#5 11.44 
+#5 11.44 26 packages are looking for funding
+#5 11.44   run `npm fund` for details
+#5 14.98 
+#5 14.98 changed 18 packages in 3s
+#5 14.98 
+#5 14.98 26 packages are looking for funding
+#5 14.98   run `npm fund` for details
+#5 DONE 15.3s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.6s done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.6s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.169 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 0.605 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 1.832 OK: 10 MiB in 17 packages
+#5 11.32 
+#5 11.32 added 1 package, removed 39 packages, and changed 37 packages in 9s
+#5 11.32 
+#5 11.32 26 packages are looking for funding
+#5 11.32   run `npm fund` for details
+#5 15.09 
+#5 15.09 changed 18 packages in 4s
+#5 15.09 
+#5 15.09 26 packages are looking for funding
+#5 15.09   run `npm fund` for details
+#5 DONE 15.4s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.6s done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.6s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B 0.0s done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 DONE 0.0s
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:eabbb38b3626ca7685a832bcd6831226571750ac7810b5caf4101be85adfeccc done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:da042043b6226aa7c021ec018d088efea426348c05f8c87d9ef726871998c4a3 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:4fe43a9e8ff3c6f19ba421edd24be37bfda860d799b3720e8e0abd2ff700ba0a done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.370 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 1.419 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 2.902 OK: 10 MiB in 17 packages
+#5 13.10 
+#5 13.10 added 1 package, removed 9 packages, and changed 87 packages in 10s
+#5 13.10 
+#5 13.10 26 packages are looking for funding
+#5 13.10   run `npm fund` for details
+#5 17.78 
+#5 17.78 changed 18 packages in 5s
+#5 17.78 
+#5 17.78 26 packages are looking for funding
+#5 17.78   run `npm fund` for details
+#5 DONE 17.9s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.7s done
+#6 writing image sha256:b3a8acf065681827dae3988cd995a2dd08f9e31dbaa783bb95946f50e2d4c3b1 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.7s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.285 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 1.353 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 3.101 OK: 10 MiB in 17 packages
+#5 12.61 
+#5 12.61 added 1 package, removed 8 packages, and changed 98 packages in 9s
+#5 12.61 
+#5 12.61 25 packages are looking for funding
+#5 12.61   run `npm fund` for details
+#5 16.49 
+#5 16.49 changed 17 packages in 4s
+#5 16.49 
+#5 16.49 25 packages are looking for funding
+#5 16.49   run `npm fund` for details
+#5 DONE 16.7s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.6s done
+#6 writing image sha256:f39adfb05d78ee243c780f4ae33653789b5ba57c7a118730f9d6f5b4f692b744 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.6s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.217 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 1.116 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 2.381 OK: 10 MiB in 17 packages
+#5 12.02 
+#5 12.02 added 1 package, removed 39 packages, and changed 61 packages in 9s
+#5 12.02 
+#5 12.02 25 packages are looking for funding
+#5 12.02   run `npm fund` for details
+#5 16.05 
+#5 16.05 changed 17 packages in 4s
+#5 16.05 
+#5 16.05 25 packages are looking for funding
+#5 16.05   run `npm fund` for details
+#5 DONE 16.2s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.8s done
+#6 writing image sha256:1a2b273f08ea2bca3ea4e182e2a70fc9c2ea255e974eaf062e75c1d3420938dc done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.8s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:b3a8acf065681827dae3988cd995a2dd08f9e31dbaa783bb95946f50e2d4c3b1 done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:f39adfb05d78ee243c780f4ae33653789b5ba57c7a118730f9d6f5b4f692b744 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.319 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 0.968 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 2.232 (1/2) Upgrading alpine-release (3.21.1-r0 -> 3.21.2-r0)
+#5 2.282 (2/2) Upgrading ca-certificates-bundle (20241121-r0 -> 20241121-r1)
+#5 2.381 OK: 10 MiB in 17 packages
+#5 12.13 
+#5 12.13 added 1 package, removed 11 packages, and changed 39 packages in 9s
+#5 12.13 
+#5 12.13 25 packages are looking for funding
+#5 12.13   run `npm fund` for details
+#5 15.67 
+#5 15.67 changed 17 packages in 3s
+#5 15.67 
+#5 15.67 25 packages are looking for funding
+#5 15.67   run `npm fund` for details
+#5 DONE 15.8s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.7s done
+#6 writing image sha256:9e050504557d6ff57edfbd1f3018701e912db0566ed9547cf2431b2ae3258fe5 done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.7s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.274 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 1.305 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 2.796 OK: 10 MiB in 17 packages
+#5 12.11 
+#5 12.11 added 1 package, removed 9 packages, and changed 87 packages in 9s
+#5 12.11 
+#5 12.11 26 packages are looking for funding
+#5 12.11   run `npm fund` for details
+#5 16.68 
+#5 16.68 changed 18 packages in 4s
+#5 16.68 
+#5 16.68 26 packages are looking for funding
+#5 16.68   run `npm fund` for details
+#5 DONE 16.9s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.6s done
+#6 writing image sha256:e18e630dce1b2976eb3c905d3bfd135fcdb2540386be22f076233c502f0c3b1e done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.6s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.194 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 1.426 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 2.735 OK: 10 MiB in 17 packages
+#5 11.58 
+#5 11.58 added 1 package, removed 8 packages, and changed 98 packages in 9s
+#5 11.58 
+#5 11.58 25 packages are looking for funding
+#5 11.58   run `npm fund` for details
+#5 15.60 
+#5 15.60 changed 17 packages in 4s
+#5 15.60 
+#5 15.60 25 packages are looking for funding
+#5 15.60   run `npm fund` for details
+#5 DONE 15.8s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.7s done
+#6 writing image sha256:829465dd9118e040571e080f8f24a01e540afdf291a8578bf2e601a497e8a4e5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.7s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 0.183 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/main/x86_64/APKINDEX.tar.gz
+#5 0.932 fetch https://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz
+#5 2.188 OK: 10 MiB in 17 packages
+#5 11.95 
+#5 11.95 added 1 package, removed 11 packages, and changed 39 packages in 10s
+#5 11.95 
+#5 11.95 25 packages are looking for funding
+#5 11.95   run `npm fund` for details
+#5 15.67 
+#5 15.67 changed 17 packages in 4s
+#5 15.67 
+#5 15.67 25 packages are looking for funding
+#5 15.67   run `npm fund` for details
+#5 DONE 15.8s
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers 0.7s done
+#6 writing image sha256:8e69787d7273ef5b9c09de9ada7787cd78bbf77fbee1134f7e8ac8678993811f done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.7s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e18e630dce1b2976eb3c905d3bfd135fcdb2540386be22f076233c502f0c3b1e done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:829465dd9118e040571e080f8f24a01e540afdf291a8578bf2e601a497e8a4e5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:8e69787d7273ef5b9c09de9ada7787cd78bbf77fbee1134f7e8ac8678993811f done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e18e630dce1b2976eb3c905d3bfd135fcdb2540386be22f076233c502f0c3b1e done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:829465dd9118e040571e080f8f24a01e540afdf291a8578bf2e601a497e8a4e5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:8e69787d7273ef5b9c09de9ada7787cd78bbf77fbee1134f7e8ac8678993811f done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:18-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:18-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:e18e630dce1b2976eb3c905d3bfd135fcdb2540386be22f076233c502f0c3b1e done
+#6 naming to hub.lumigame.com/ldb/node-base:18 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:20-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:20-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:829465dd9118e040571e080f8f24a01e540afdf291a8578bf2e601a497e8a4e5 done
+#6 naming to hub.lumigame.com/ldb/node-base:20 done
+#6 DONE 0.0s
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 277B done
+#1 DONE 0.0s
+
+#2 [internal] load metadata for hub.lumigame.com/docker-hub/library/node:22-alpine
+#2 DONE 0.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.0s
+
+#4 [1/2] FROM hub.lumigame.com/docker-hub/library/node:22-alpine
+#4 DONE 0.0s
+
+#5 [2/2] RUN apk upgrade     && npm install --global npm pnpm     && npm upgrade --latest --global npm pnpm     && rm -rf /var/cache/apk/*     && rm -rf /usr/local/share/man
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:8e69787d7273ef5b9c09de9ada7787cd78bbf77fbee1134f7e8ac8678993811f done
+#6 naming to hub.lumigame.com/ldb/node-base:22 done
+#6 DONE 0.0s
